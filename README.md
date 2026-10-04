@@ -12,7 +12,7 @@ This project was built under strict industry-grade constraints to demonstrate co
 *   **Strictly Forbidden (and avoided):** Regex (`re`), Machine Learning libraries (`scikit-learn`), external APIs, anomaly detection libraries (`scipy.stats`), and visual plotting tools (`matplotlib`, `seaborn`). 
 
 ## How to Run
-1. Download the `SpendDNA_<YourName>.ipynb` notebook and the `rahul_transactions.csv` dataset.
-2. Open the notebook in Google Colab or a local Jupyter environment.
-3. Ensure the `.csv` file is placed in the same working directory or uploaded to the Colab session.
-4. Click "Run All" to execute the notebook end-to-end.
+1. Download the `SpendDNA_Gaurav_DA24039.ipynb` notebook and the `rahul_transactions.csv` dataset.
+3. Open the notebook in Google Colab or a local Jupyter environment.
+4. Ensure the `.csv` file is placed in the same working directory or uploaded to the Colab session.
+5. Click "Run All" to execute the notebook end-to-end.
